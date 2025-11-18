@@ -27,17 +27,6 @@ USE bella_massa;
 - Execute o script update_delete.sql para testar comandos de atualização (UPDATE) e exclusão (DELETE).
 - Verifique os resultados com comandos SELECT simples para validar as alterações.
 
-## 🧠 Explicação do Modelo Lógico
-O modelo lógico foi derivado de um diagrama ERD e contempla as seguintes entidades:
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-
-
 ## 🔗 Relacionamentos
 - Um Cliente pode fazer vários Pedidos.
 - Um Pedido pode conter vários Item_Pedido, cada um vinculado a um Produto.
